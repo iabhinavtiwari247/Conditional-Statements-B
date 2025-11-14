@@ -1,5 +1,6 @@
 //Write a Program that takes an integer 'defNumber' (1-7).  Use a Ternary to check if the number is valid (1-7).
 // If valid , use a switch statement to print the weekday name. Else print "Invalid".//
+
 #include <iostream>
 using namespace std;
 int main() {
