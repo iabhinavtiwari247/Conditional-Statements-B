@@ -1,2 +1,2 @@
 # Conditional-Statements-B
-# Ternary operator & Switch Case Practice Questions.
+Ternary operator & Switch Case Practice Questions.
